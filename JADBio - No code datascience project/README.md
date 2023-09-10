@@ -1,4 +1,4 @@
-# 🌦️ JADBio Data Science Project README 📊
+# 🌦️ No code DataScience project using JADBio. 📊
 
 ## Table of Contents
 
@@ -35,7 +35,6 @@ The main quest of this project is to build a magical machine learning model 🔮
 
 5. **Model Evaluation**: 📊 We'll use spells like accuracy, precision, recall, and F1-score to judge our model's performance. Potions of visualization will reveal its secrets! 🧙‍♀️🔍
 
-6. **Deployment**: 🏰 If you wish, we can forge a portal to the model's realm for real-time predictions. 🌐
 
 ## Dataset 📦
 
@@ -48,19 +47,49 @@ Our dataset is a collection of climate features:
 
 Our mystical target is to predict the month that aligns with these weather conditions.
 
+## STEPS TO GET DESORED MODEL FROM JADBio.
+
+# STEP - 1 : UPLOAD THE DESIRED DATASET ON  WHICH YOU WANT TO PERFORM THE DATA ANALYSIS.
+
+  <img width="671" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/073b71db-3ba5-4405-9ddf-54ddbab080b8">
+
+# STEP - 2 : TRANFORM THE DATA AS REQUIRED , MAKE SURE THE TRANSFORMED DATA SHOULD BE ALIGNED TO THE JADBio DATA CONDITIONS.
+
+  <img width="865" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/1b57c4e6-cd6b-425d-81e7-d6d5205f964d">
+
+# STEP - 3 : ANALYZE DATA
+  <img width="877" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/3fd6ad82-a28a-4177-ac1e-1cfd9ea807fe">
+
+    select the outcome variable , which should be predicted at the end of the project.
+
+# STEP - 4 : APPLY MODEL.
+
+  <img width="892" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/75cdda38-f028-4dc0-a14d-003f1b2b211e">
+
+It will perform analysis against all the different models and performs comparision and gives the best possible result.
+
+
+  <img width="911" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/0d56c97f-cb9a-4ea7-8aff-faa3ee696fd6">
+
+  <img width="848" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/ca104ce3-c59e-4ac7-bb75-11edaf627772">
+
+# Give all the input values , let the model will predict the right month for you.
+
+  <img width="817" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/8ab303f1-eb04-42cd-838a-b4da6d337163">
+
+  <img width="637" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/85035021-8d3c-4f85-8535-b82a2b68a02f">
+
+  
+  So, The August month is the suitable month with all the temperature conditions.
+
+  ## Here is the metrics report : 
+
+  <img width="878" alt="image" src="https://github.com/TejaChilumula/CMPE-255-Assignment_02/assets/66719648/9d1526e5-f34d-47fb-890f-093fa6c36032">
+
 
 ## Conclusion 🌟
 
 This JADBio data science project is your gateway to a world of enchantment and discovery. By following these scrolls and spellbooks, you will embark on a heroic journey from data collection to model evaluation.
 
-## Contributing 🪙
-
-If you desire to share your wisdom, join our fellowship! Fork the repository, weave your magic, and send us a parchment (pull request)!
-
-## License 📜
-
-This project is enchanted under the MIT License. See the [LICENSE](LICENSE) scroll for more mystical details.
-
----
 
 Feel free to reach out if you have any questions or need further assistance with this magical project. Happy spellbinding! 🧙‍♂️🌟
