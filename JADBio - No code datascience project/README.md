@@ -1,11 +1,12 @@
 # 🌦️ No code DataScience project using JADBio. 📊
 
-# Complete End to End Video Demonstration link : https://clipchamp.com/watch/bs0uDaGJZIk
+## [Complete End to End Video Demonstration link](https://clipchamp.com/watch/bs0uDaGJZIk)
 
 # I developed two prediction models using JADBio 
 
-Analysis Report for Month Prediciton using weather data : https://app.jadbio.com/share/a9f14702-150b-4fb0-97c1-5fe8f4ec60da
-Analysis Report for Student Marks Prediction : https://app.jadbio.com/share/dda434e6-133a-488a-85c2-1560a9e1654d
+[Analysis Report for Month Prediciton using weather data](https://app.jadbio.com/share/a9f14702-150b-4fb0-97c1-5fe8f4ec60da)
+
+[Analysis Report for Student Marks Prediction](https://app.jadbio.com/share/dda434e6-133a-488a-85c2-1560a9e1654d)
 
 ## Table of Contents
 
