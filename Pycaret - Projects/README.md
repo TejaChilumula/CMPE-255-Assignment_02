@@ -1,6 +1,3 @@
-# README.md for PyCaret Assignment ✨📊
-
-
 ## 🚀 Assignment 2: Dive Deep into Data Mining with PyCaret 🚀
 
 ### 📘 Introduction:
