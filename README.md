@@ -1,6 +1,6 @@
 # DATA MINING - Assignment 2
 
-## 🌟 Assignment 1: Dive into the World of AutoML using JADBio 🌟
+## 🌟 Task 1: Dive into the World of AutoML using JADBio 🌟
 
 ### 📌 Introduction:
 [JADBio](https://jadbio.com/) is a magical 🎩 AutoML platform tailored for biomedical data. With its no-code approach, it allows you to unleash the power of machine learning without getting your hands dirty!
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 Assignment 2: Mastering the Art of Low-Code Data Mining with PyCaret 🌟
+## 🌟 Task 2: Mastering the Art of Low-Code Data Mining with PyCaret 🌟
 
 ### 📌 Introduction:
 [PyCaret](https://pycaret.org/) is your trusty 🛠 low-code machine learning wand in Python. From data prep to model deployment, it's a whirlwind tour that lasts mere seconds.
