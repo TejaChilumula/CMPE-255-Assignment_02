@@ -1,4 +1,4 @@
-### DATA MINING - Assignment 2
+# DATA MINING - Assignment 2
 
 ## 🌟 Assignment 1: Dive into the World of AutoML using JADBio 🌟
 
